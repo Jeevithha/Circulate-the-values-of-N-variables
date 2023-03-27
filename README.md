@@ -6,14 +6,23 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Get the list of values from the user
+
 ### Step 2: 
+Get the values from the user for the numberof rotation
+
 ### Step 3: 
-Get the value from the user for the number of rotation
+declare a function starting with a keyword "def"
+
 ### Step 4: 
-Using the slicing concept rotate the list
+within the function print the output statement
 
 ### Step 5: 
+using slicing concept rotate the list
+
 ### Step 6: 
+display the output
+
 ## Program:
 ```
 #Program to circulate N values.
@@ -30,3 +39,4 @@ def circulate():
 ![Screenshot (88)](https://user-images.githubusercontent.com/123623197/227870381-1a980e1b-a200-49f4-b3c7-78c5282ce2cd.png)
 
 ## Result:
+cirlate n variables created successfully.
