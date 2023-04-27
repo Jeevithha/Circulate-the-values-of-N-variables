@@ -36,7 +36,7 @@ def circulate():
     
 ```
 ## Output:
-![Screenshot (88)](https://user-images.githubusercontent.com/123623197/227870381-1a980e1b-a200-49f4-b3c7-78c5282ce2cd.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/123623197/234792787-cf498748-1cbf-4f83-a534-8af4fca8b714.png)
 
 ## Result:
 cirlate n variables created successfully.
