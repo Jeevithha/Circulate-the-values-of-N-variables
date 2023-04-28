@@ -36,7 +36,7 @@ def circulate():
     
 ```
 ## Output:
-![Screenshot (122)](https://user-images.githubusercontent.com/123623197/234817967-eed7ca7c-3a7c-4f50-a7e4-e9ce4f16a690.png)
+![image](https://user-images.githubusercontent.com/123623197/235063705-9f4d8d8f-8e95-431e-b897-e27e66b449fd.png)
 
 
 ## Result:
